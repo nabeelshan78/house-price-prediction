@@ -14,8 +14,6 @@ This repository presents a complete end-to-end machine learning solution for pre
 6. [Evaluation Metrics](#evaluation-metrics)  
 7. [Results](#results)  
 8. [Project Structure](#project-structure)  
-9. [Installation](#installation)  
-10. [Future Improvements](#future-improvements)  
 
 ---
 
