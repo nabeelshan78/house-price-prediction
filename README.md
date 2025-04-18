@@ -6,14 +6,14 @@ This repository presents a complete end-to-end machine learning solution for pre
 
 ## 📌 Table of Contents
 
-1. [Project Overview](#project-overview)  
-2. [Dataset](#dataset)  
-3. [Workflow Summary](#workflow-summary)  
-4. [Notebook Structure](#notebook-structure)  
-5. [Models Used](#models-used)  
-6. [Evaluation Metrics](#evaluation-metrics)  
-7. [Results](#results)  
-8. [Project Structure](#project-structure)  
+1. [Project Overview](#-project-overview)  
+2. [Dataset](#-dataset)  
+3. [Workflow Summary](#-workflow-summary)  
+4. [Notebook Structure](#-notebook-structure)  
+5. [Models Used](#-models-used)  
+6. [Evaluation Metrics](#-evaluation-metrics)  
+7. [Results](#-results)  
+8. [Project Structure](#-project-structure)  
 
 ---
 
